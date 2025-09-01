@@ -34,17 +34,25 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudiksha255&theme=radical&hide_border=false&ring=FF8C00&fire=FF4500&currStreakLabel=FFD700" alt="GitHub Streak Stats" />
-</p>
-
-<br> 
 
 <p align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudiksha255&bg_color=0d1117&color=00e676&line=ff9800&point=ff5722&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <!-- 1. GitHub Streak Stats with vibrant theme -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sudiksha255&theme=highcontrast&hide_border=false&background=0d1117&ring=ff79c6&fire=50fa7b&currStreakLabel=bd93f9"
+    alt="GitHub Streak Stats"
+  />
 </p>
+
+<br><!-- Adds vertical spacing -->
+
+<p align="center">
+  <!-- 2. Contribution Graph with custom colors -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sudiksha255&bg_color=0d1117&color=ff79c6&line=8be9fd&point=50fa7b&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
 
 
 
