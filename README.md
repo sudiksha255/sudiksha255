@@ -35,10 +35,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudiksha255&show_icons=true&theme=tokyonight" />
-  <br>
-
+<br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudiksha255&theme=radical&hide_border=false&ring=FF8C00&fire=FF4500&currStreakLabel=FFD700" alt="GitHub Streak Stats" />
 </p>
+
+<br> 
+
+<p align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudiksha255&bg_color=0d1117&color=00e676&line=ff9800&point=ff5722&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
 
 
 ---
