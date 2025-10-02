@@ -28,7 +28,7 @@
 - 🤝 Looking to collaborate on beginner-friendly frontend or DSA projects  
 - 📫 Reach me at: [sudiksha255@gmail.com](mailto:sudiksha255@gmail.com)  
 - 📄 Know about my experience: [![Resume](https://img.shields.io/badge/View%20Resume-blue?style=flat-square&logo=readthedocs)](https://1drv.ms/w/c/b56e0d5f19565796/EQxjJOHYlSpFtCQhOvx2584BElKSjmosByOm-AS_g11KOQ?e=Ec03E6)
-- 😄 Fun fact: I write more TODOs than I complete. It's a feature, not a bug.  
+
 
 ---
 
